@@ -3,3 +3,5 @@ def squaresum(a, b):
 
 def summinus(a, b):
     return (a**2 + b**2) - (a+b)**2
+def minussquare(a, b):
+    return a**2 - b**2
